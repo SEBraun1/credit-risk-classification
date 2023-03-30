@@ -19,10 +19,10 @@ Steps:
 
 * LR_Model 1:
   * The model predicts both, healthy and high-risk, loans with a 99% weighted average of accuracy, precision, and recall.
-  * Evaluating the macro average, the precision or positive predictive value is 92%, which could indicate some false positive
-    assignments and evaluation of additional models is recommended. 
 
 
 ## Summary
 
-The logistic regression model performs with high precision and recall. 
+The logistic regression model performs with high accuracy, precision, and recall. Evaluating the macro average, the precision
+or positive predictive value is 92%, which could indicate some false positive assignments and evaluation of additional models
+is recommended. 
